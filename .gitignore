@@ -1,0 +1,5 @@
+target/
+data/numbers.txt
+.idea/
+*.iml
+.vscode/
